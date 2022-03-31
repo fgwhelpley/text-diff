@@ -1,1 +1,1 @@
-declare module "text-diff";
+declare module '@fgwhelpley/text-diff' {}
